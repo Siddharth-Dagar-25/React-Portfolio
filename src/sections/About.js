@@ -144,19 +144,17 @@ const About = () => {
         About Me
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-        I'm a Full Stack Web Developer with a passion for
-        creating products that not only look good but also
-        solve real problems. Strong engineering professional
-        pursuing a Bachelor's degree focused on Electronics
-        and Communication from Netaji Subhas University of
-        Technology in Dwarka, New Delhi.
+        I'm a Full Stack Web Developer with a passion for creating products that
+        not only look good but also solve real problems. Strong engineering
+        professional pursuing a Bachelor's degree focused on Electronics and
+        Communication from Netaji Subhas University of Technology in Dwarka, New
+        Delhi.
         <br />
         <br />
-        When I'm not sketching ideas
-        on paper, you can find me binge-watching a Netflix
-        series or playing video games.
-        My design philosophy is simple: make it visually appealing, functional, and
-        bring a smile to people's faces. Inshort, I'm the developer you are looking for !!
+        When I'm not sketching ideas on paper, you can find me binge-watching a
+        Netflix series or playing video games. My design philosophy is simple:
+        make it visually appealing, functional, and bring a smile to people's
+        faces. Inshort, I'm the developer you are looking for !!
       </Left>
 
       <Right>
